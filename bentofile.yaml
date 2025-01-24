@@ -1,0 +1,13 @@
+service: "service.py:asl_service"
+labels:
+  owner: your-name
+  project: asl-detection
+include:
+- "*.py"
+python:
+  packages:
+    - mlflow
+    - tensorflow
+    - pillow
+    - numpy
+    - pandas

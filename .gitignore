@@ -1,0 +1,6 @@
+venv/
+/Lib
+/Scripts
+/test.py
+/MobilecamTest.py
+/sign-language-detection.ipynb

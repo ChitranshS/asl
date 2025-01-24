@@ -6,3 +6,4 @@ venv/
 /sign-language-detection.ipynb
 Dataset
 _ignore
+.venv

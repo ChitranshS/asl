@@ -2,7 +2,7 @@ import mlflow
 import mlflow.keras
 from keras.models import load_model
 
-model = load_model('Model/smnistkaggle.h5')  # Your existing model path
+model = load_model('Model/model.h5')  # Your existing model path
 
 # Configure MLflow
 mlflow.set_tracking_uri("http://localhost:5000")  # Local tracking server

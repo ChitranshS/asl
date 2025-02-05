@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/6e46f774-68a7-4f7d-b6a6-5965e4c3ef78/webuild/Sign-Language-detection/mlruns/0/d98b72bcf93f4bb89a4bf24a38d67a5d/artifacts
+end_time: 1737698040078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d98b72bcf93f4bb89a4bf24a38d67a5d
+run_name: valuable-swan-118
+run_uuid: d98b72bcf93f4bb89a4bf24a38d67a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737698040072
+status: 4
+tags: []
+user_id: vasuki
